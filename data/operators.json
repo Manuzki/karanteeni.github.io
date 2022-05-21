@@ -99,14 +99,6 @@
   ],
   "rakentaja": [
     {
-      "name": "PreGauris",
-      "description": "\"Kuvaus? No jos sitten kun en tee lohisalaattia.\"",
-      "strengths": [
-        "Rakentaminen"
-      ],
-      "uuid": "eaa677e2710d41faaed5b258cf31fdd7"
-    },
-    {
       "name": "LeweXD",
       "description": "Gauriksen aliurakoitsija.",
       "strengths": [
